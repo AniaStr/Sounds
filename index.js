@@ -35,7 +35,7 @@ for (let i = 0; i < numberOfDrumButtons; i++) {
         ambulance.play();
         break;
 
-      case "k":
+      case "car":
         let car = new Audio('sounds/car.mp3');
         car.play();
         break;
